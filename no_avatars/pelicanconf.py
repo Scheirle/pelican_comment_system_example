@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Example'
 SITENAME = 'No Avatar Example'
-SITEURL = ''
+SITEURL = 'http://scheirle.github.io/pelican_comment_system_example/'
 
 PATH = 'content'
 
